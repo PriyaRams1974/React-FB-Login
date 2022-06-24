@@ -1,0 +1,16 @@
+.rounded {
+    margin: auto;
+}
+.card{
+    margin-top: 10%;
+    padding: 10%;
+    background-color: rgb(255, 230, 0); 
+}
+
+.container {
+    width: 250px; 
+    height: 250px; 
+    background-color: white;
+    margin: auto;
+    padding: 10%;
+}
